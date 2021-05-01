@@ -1,0 +1,62 @@
+			.nav{                
+                background-color: black;
+                overflow: hidden; 
+                margin-left:108px;
+				margin-right:108px;
+            }
+            
+            .nav a{
+                text-decoration: none;
+                float: left;
+                color: white;
+                text-align: center;
+                padding: 10px 10px;
+                display: block;
+            }
+
+            .nav a:hover{
+                background-color:gainsboro;
+                color: black;
+            }
+			
+			.head{
+                background-color:#99FF00;
+				opacity:0.9;
+                display: block;
+				padding-left:30px;
+				padding-right:30px;
+                margin-left:108px;
+				margin-right:108px;
+				margin-bottom:0px;
+				padding-bottom:10px;
+            }
+			
+			h1{
+				font-size:50px;
+				font-weight:bold;
+				text-align:center;
+			}
+			
+			p{
+				font-size:20px;
+				font-family:verdana;
+			}
+			
+			.footer{
+                background-color: black;
+                display: block;
+                color: white;
+                text-align: center;
+                font-size: 15px;
+				margin-left:108px;
+				margin-right:108px;
+            }
+			
+			a{
+				text-decoration:none;
+				color:red;
+			}
+			
+			img{
+				border-radius:10px;
+			}
