@@ -1,8 +1,7 @@
 			.nav{                
                 background-color: black;
                 overflow: hidden; 
-                margin-left:108px;
-				margin-right:108px;
+                
             }
             
             .nav a{
@@ -20,13 +19,11 @@
             }
 			
 			.head{
-                background-color:#99FF00;
+                background-color:#add8e6;
 				opacity:0.9;
                 display: block;
 				padding-left:30px;
 				padding-right:30px;
-                margin-left:108px;
-				margin-right:108px;
 				margin-bottom:0px;
 				padding-bottom:10px;
             }
@@ -48,8 +45,7 @@
                 color: white;
                 text-align: center;
                 font-size: 15px;
-				margin-left:108px;
-				margin-right:108px;
+				
             }
 			
 			a{
