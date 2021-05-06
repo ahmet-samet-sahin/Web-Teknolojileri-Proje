@@ -53,6 +53,61 @@
 				color:red;
 			}
 			
+			a:hover{
+				
+				color:red;
+			}
+			
 			img{
 				border-radius:10px;
 			}
+			
+			table,td,tr{
+				background-color:lightblue;
+				padding-left:10px;
+				padding-right:10px;
+			}
+			
+			border{
+				background-color:blue;
+			}
+			
+			.ozgecmis_resim{
+				width:40px;
+				height:40px;
+				
+			}
+			
+			.ozgecmis_sol_metin{
+				padding-left:47px;
+				font-size:17px;
+			}
+			
+			.ozgecmis_buyuk_resim{
+				width:200px;
+				height:200px;
+				border-radius:100px;
+				margin-left:70px;
+				margin-bottom:10px;
+				margin-top:10px;
+			}
+			
+			.ozgecmis_list{
+				list-style-type:square;
+			}
+			
+			.ozgecmis_sag_buyuk_baslik{
+				text-align:left;
+				margin-top:50px;
+			}
+			
+			.ozgecmis_sag_orta_baslik{
+				margin-top:10px;
+			}
+			
+			.ozgecmis_sag_metin{
+				font-size:16px;
+				color:#6fbbd3;
+			}
+			
+			.mySlides {display:none;}
