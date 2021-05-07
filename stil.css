@@ -111,3 +111,13 @@
 			}
 			
 			.mySlides {display:none;}
+			
+			.tablo_p{
+				font-size:18px;
+			}
+			
+			@media only screen and (max-width: 800px){
+				.tablo{
+				display:none;
+				}
+			}
