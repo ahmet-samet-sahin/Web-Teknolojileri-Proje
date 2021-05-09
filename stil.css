@@ -121,3 +121,104 @@
 				display:none;
 				}
 			}
+			
+			.sehrim_tablo_resim{
+				margin-top:10px;
+			}
+			
+			.sehrim_tablo_resim_yazi{
+				padding-top:10px;
+			}
+			
+			.sehrim_tablo_ilce{
+				text-decoration:underline;
+			}
+			
+			.sehrim_icerik_arkaplanrengi{
+				background-color:#ffd045;
+			}
+			
+			.sehrim_slider{
+				margin-bottom:50px;
+			}
+			
+			.sehrim_slider_resim{
+				width:100%;
+				height:400px;
+			}
+			
+			.takimimiz_icerik_arkaplanrengi{
+				background-color:#daff6b;
+			}
+			
+			.takimimiz_slider{
+				margin-top:50px;
+				margin-bottom:50px;
+			}
+			
+			.iletisim_ad_eposta{
+				margin-left:30%;
+				width:200px;
+				height:25px;
+			}
+			
+			.iletisim_konu{
+				margin-left:30%;
+				width:200px;
+				height:25px;
+			}
+			
+			.iletisim_cinsiyet{
+				margin-left:30%;
+			}
+			
+			.iletisim_mesaj{
+				margin-left:30%;
+				width:250px;
+				height:300px;
+				max-width:400px;
+				max-height:300px;
+				min-height:300px;
+				min-width:250px;
+			}
+			
+			.iletisim_gerekli{
+				color:red;
+			}
+			
+			.iletisim_buton{
+				margin-left:35%;
+				margin-bottom:10px;
+				margin-right:50px;
+			}
+			
+			.iletisim_buton2{
+				margin-bottom:10px;
+			}
+			
+			.giris_container{
+				margin-top:10%;
+				padding-left:15%;
+				padding-right:15%;
+			}
+			
+			.giris_row{
+				background-color:lightblue;
+			}
+			
+			.giris_col{
+				margin-left:35%;
+			}
+			
+			.giris_form{
+				padding-top:10%;
+				padding-bottom:10%;
+			}
+			
+			.giris_form_baslik{
+				font-size:30px;
+			}
+			
+			.giris_buton{
+				margin-left:8%;
+			}
