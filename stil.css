@@ -19,7 +19,7 @@
             }
 			
 			.head{
-                background-color:#add8e6;
+                background-color:#80CBC4;
 				opacity:0.9;
                 display: block;
 				padding-left:30px;
@@ -50,7 +50,7 @@
 			
 			a{
 				text-decoration:none;
-				color:red;
+				color:blue;
 			}
 			
 			a:hover{
@@ -203,7 +203,7 @@
 			}
 			
 			.giris_row{
-				background-color:lightblue;
+				background-color:#C5E1A5;
 			}
 			
 			.giris_col{
@@ -222,3 +222,14 @@
 			.giris_buton{
 				margin-left:8%;
 			}
+			
+			.sayfa_kenarlik{
+				margin-right:1px;
+				margin-left:1px;
+			}
+			
+			.baslik{
+				font-size:60px;
+			}
+			
+			
